@@ -1,5 +1,7 @@
-# Conways-Game-of-Life
-Conway's Game of Life Using simple lists and dictionaries.
+Conways-Game-of-Life
+
+Description: Conway's Game of Life Using simple lists and dictionaries to record
+cell propagation data.
 
 Comments inside of file clearly describe the important parts of the code.
 The code is written in the format of a class because this was what was required
